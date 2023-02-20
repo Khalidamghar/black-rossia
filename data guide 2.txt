@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1tyAu.jpg",
+      "title": "black rossia 1",
+        "text_Content": "Black Russia" is a term that has been used to describe the historical and contemporary experiences of Black people in Russia. The term is a reflection of the complex relationship that Black people have had with Russia, as the country has a long and complex history with the African continent and its diaspora..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1D9wb.jpg",
+      "title": "black rossia 2",
+        "text_Content": "One of the earliest contacts between Black people and Russia was through the slave trade. Beginning in the 16th century, Russian merchants established trade routes along the coast of Africa, exchanging goods for enslaved Africans who were then transported to the Americas. Although the number of Africans who were taken to Russia during this period was relatively small, the practice of slavery continued in the country until the 19th century..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1tDc7.jpg",
+      "title": "black rossia 3",
+        "text_Content": "The presence of Black people in Russia became more prominent during the Soviet era, which began in 1917. The Soviet government was committed to the idea of a global revolution that would unite workers of all races and nationalities in a common struggle against capitalism. As part of this effort, the Soviet Union established close ties with newly independent African nations, providing military and economic aid to liberation movements and inviting African students to study in Soviet universities..",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1tp9e.jpg",
+      "title": "black rossia 4",
+        "text_Content": "Despite the rhetoric of internationalism, however, the experiences of Black people in the Soviet Union were often difficult. While the Soviet government officially condemned racism, discrimination and prejudice were still widespread. Black people were often subjected to racial slurs and harassment on the street, and they faced limited opportunities for employment and education..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1DCHF.jpg",
+      "title": "black rossia 5",
+        "text_Content": "Despite these challenges, Black people in the Soviet Union also found opportunities for cultural expression and political activism. The Soviet government supported the development of Black cultural centers and festivals, and Black musicians and artists were able to perform and exhibit their work in a supportive environment.",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1DqS1.jpg",
+      "title": "black rossia 6",
+        "text_Content": "Black people were also involved in political movements within the Soviet Union, advocating for greater representation and an end to racial discrimination. In the 1920s and 1930s, Black communists were active in the Soviet Union, organizing around issues such as colonialism and racism. During the Cold War, Black activists in the United States saw the Soviet Union as a potential ally in their struggle for civil rights and an end to racial discrimination..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1DfcP.jpg",
+      "title": "black rossia 7",
+        "text_Content": "In the years following the collapse of the Soviet Union, the experiences of Black people in Russia have become more complex. While some Black people have found success and acceptance in post-Soviet Russia, others have faced increased discrimination and prejudice.",
+        "text_Content_1": "."
 
 
 
